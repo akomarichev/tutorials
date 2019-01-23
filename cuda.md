@@ -8,3 +8,5 @@
 *Bandwidth* is the amount of data that can be processed per unit of time.
 
 *Throughput* is the amount of operations that can be processed per unit of time.
+
+*Heterogeneous Architecture* consists of several CPUs (called *host*) and several GPUs (called *device*).
